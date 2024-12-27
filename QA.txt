@@ -1,0 +1,59 @@
+Q: What is the refund policy?
+A: You can request a refund within 30 days of purchase.
+
+Q: How do I reset my password?
+A: Go to the login page and click on 'Forgot Password'.
+
+Q: What are the payment methods?
+A: We accept credit cards, PayPal, and bank transfers.
+
+Q: How can I contact customer support?
+A: Email us at support@example.com or call 123-456-7890.
+
+Q: Where is your company located?
+A: Our headquarters are in San Francisco, CA.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to over 50 countries worldwide.
+
+Q: How can I track my order?
+A: Use the tracking link provided in your confirmation email.
+
+Q: What is the warranty period?
+A: All products come with a 1-year warranty.
+
+Q: Can I change my shipping address?
+A: Yes, contact support before your order ships.
+
+Q: How do I update my account information?
+A: Log in and navigate to 'Account Settings' to update your information.
+
+Q: Do you provide discounts for bulk purchases?
+A: Yes, please contact our sales team for bulk pricing.
+
+Q: What should I do if I receive a damaged product?
+A: Contact our support team immediately for assistance with replacements.
+
+Q: Can I cancel my order after placing it?
+A: Yes, you can cancel your order within 24 hours of placing it.
+
+Q: What is your return policy?
+A: Items can be returned within 15 days of delivery if unused and in original packaging.
+
+Q: How can I subscribe to your newsletter?
+A: Visit our website and enter your email in the subscription box.
+
+Q: Do you have a mobile app?
+A: Yes, our app is available on both iOS and Android platforms.
+
+Q: Can I schedule a delivery at a specific time?
+A: Yes, you can specify your preferred delivery time during checkout.
+
+Q: How do I report a technical issue?
+A: Submit a support ticket on our website or email techsupport@example.com.
+
+Q: Are your products environmentally friendly?
+A: Yes, we prioritize sustainability and eco-friendly materials in our products.
+
+Q: What languages does your customer support team speak?
+A: Our support team is fluent in English, Spanish, and French.
